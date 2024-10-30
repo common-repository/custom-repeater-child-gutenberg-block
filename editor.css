@@ -1,0 +1,19 @@
+
+.mainImage{
+    display: table-cell;
+    padding: 10px;
+}
+.image-button{
+    vertical-align: text-top;
+}
+
+.side-content{
+    display: table-cell;
+    padding: 10px;
+}
+
+.side-content .editor-rich-text{
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+

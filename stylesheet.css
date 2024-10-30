@@ -1,0 +1,30 @@
+.wp-block-new-child-block {
+    display: table;
+}
+.wp-block-new-child-block .mainImage .recipe-image {
+    width: 100%;
+}
+.wp-block-new-child-block .mainImage image {
+    width: 35%;
+    padding-right: 30px;
+    display: table-cell;
+    vertical-align: top;
+}
+.mainImage{
+    text-align: center;
+    width: 14.46208113%;
+    display: table-cell;
+    vertical-align: -webkit-baseline-middle;
+}
+.wp-block-new-child-block div{
+  padding: 10px;
+}
+.wp-block-new-child-block h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+}
+.wp-block-new-child-block p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+}
